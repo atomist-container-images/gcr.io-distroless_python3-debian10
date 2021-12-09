@@ -1,2 +1,2 @@
-# Tags: sha256-265bab77f99c4a020764322b6617c7c36dd6fd291a2abcdfa4765696b120b2da.cosign
+# Tags:  sha256-265bab77f99c4a020764322b6617c7c36dd6fd291a2abcdfa4765696b120b2da.cosign
 FROM gcr.io/distroless/python3-debian10:sha256-265bab77f99c4a020764322b6617c7c36dd6fd291a2abcdfa4765696b120b2da.cosign
